@@ -29,8 +29,8 @@
 ### 资料
 - [Structure from Motion 基础知识](http://mi.eng.cam.ac.uk/~cipolla/publications/contributionToEditedBook/2008-SFM-chapters.pdf)
 - [Build a rome in a day](https://grail.cs.washington.edu/rome/)
-- [Reconstruct the world in six days](http://www.cs.unc.edu/~jheinly/reconstructing_the_world.html)，[优酷视频在线地址](http://v.youku.com/v_show/id_XMTYxNTA1OTEwMA==.html)，[视频下载地址](./Structure_from_Motion_with_VisualSFM.mp4)
-- [Visual SFM软件](http://ccwu.me/vsfm/), [优酷视频在线地址]()，[视频下载地址]()
+- [Reconstruct the world in six days](http://www.cs.unc.edu/~jheinly/reconstructing_the_world.html)
+- [Visual SFM软件](http://ccwu.me/vsfm/),[优酷视频在线地址](http://v.youku.com/v_show/id_XMTYxNTA1OTEwMA==.html)，[视频下载地址](./Structure_from_Motion_with_VisualSFM.mp4)
 - SfM pipeline，[优酷视频在线地址](http://v.youku.com/v_show/id_XMTYxNzM4Mzc3Mg==.html)，[视频下载地址](./Structure_From_Motion_Workflow-VisualSFM_CMPMVS_Meshlab_Blender)
 
 ### 计划
