@@ -31,7 +31,7 @@
 - [Build a rome in a day](https://grail.cs.washington.edu/rome/)
 - [Reconstruct the world in six days](http://www.cs.unc.edu/~jheinly/reconstructing_the_world.html)
 - [Visual SFM软件](http://ccwu.me/vsfm/),[优酷视频在线地址](http://v.youku.com/v_show/id_XMTYxNTA1OTEwMA==.html)，[视频下载地址](./Structure_from_Motion_with_VisualSFM.mp4)
-- SfM pipeline，[优酷视频在线地址](http://v.youku.com/v_show/id_XMTYxNzM4Mzc3Mg==.html)，[视频下载地址](./Structure_From_Motion_Workflow-VisualSFM_CMPMVS_Meshlab_Blender)
+- SfM pipeline，[优酷视频在线地址](http://v.youku.com/v_show/id_XMTYxNzM4Mzc3Mg==.html)，[视频下载地址](./Structure_From_Motion_Workflow-VisualSFM_CMPMVS_Meshlab_Blender.mp4)
 
 ### 计划
 - 暑假期间主要为调研阶段。大家需要看完『资料』内的论文和视频，每个人在 github 上至少找到一个类似的开源项目（每个人找的项目不要一样），并动手实践这个项目。
