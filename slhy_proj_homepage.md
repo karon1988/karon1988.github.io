@@ -42,4 +42,5 @@
 - [史上最浅显易懂的 Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [谷歌](http://so.chongbuluo.com/)
 - [谷歌学术](https://xs.glgoo.com/)
+- [翻墙工具 shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases/download/3.0/Shadowsocks-3.0.zip)
 - **欢迎大家将平时找到其他有用的资料或工具等共享上来**
