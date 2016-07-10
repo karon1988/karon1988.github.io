@@ -18,6 +18,7 @@
 - [Kinect V2 获取骨架](http://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/)
 - [舞蹈动作识别论文——Real-Time Classification of Dance Gestures
 from Skeleton Animation](http://vision.ucla.edu/papers/raptisKH11.pdf)
+- [kinect 捕捉的动作数据库](http://cvrc.ece.utexas.edu/KinectDatasets/HOJ3D.html)
 
 ### 计划
 - 暑假期间主要为调研阶段。在此期间大家需要（1）把『资料』部分的内容看完，并以此为起点，搜索同方向下近几年的研究进展；（2）整理、编译和运行楼珊珊的留下的代码。
