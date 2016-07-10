@@ -15,7 +15,9 @@
 
 ### 资料
 - Kinect抠像相关的资料：楼珊珊的毕业论文《[基于kinect的抠像算法研究与应用](./lss_thesis.pdf)》及论文中涉及的相关参考文献。
-- 手势识别相关资料：待添加
+- [Kinect V2 获取骨架](http://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/)
+- [舞蹈动作识别论文——Real-Time Classification of Dance Gestures
+from Skeleton Animation](http://vision.ucla.edu/papers/raptisKH11.pdf)
 
 ### 计划
 - 暑假期间主要为调研阶段。在此期间大家需要（1）把『资料』部分的内容看完，并以此为起点，搜索同方向下近几年的研究进展；（2）整理、编译和运行楼珊珊的留下的代码。
@@ -32,6 +34,8 @@
 - [Reconstruct the world in six days](http://www.cs.unc.edu/~jheinly/reconstructing_the_world.html)
 - [Visual SFM软件](http://ccwu.me/vsfm/),[优酷视频在线地址](http://v.youku.com/v_show/id_XMTYxNTA1OTEwMA==.html)，[视频下载地址](./Structure_from_Motion_with_VisualSFM.mp4)
 - SfM pipeline，[优酷视频在线地址](http://v.youku.com/v_show/id_XMTYxNzM4Mzc3Mg==.html)，[视频下载地址](./Structure_From_Motion_Workflow-VisualSFM_CMPMVS_Meshlab_Blender.mp4)
+- [基于视频的 SfM 综述](http://downloads.hindawi.com/journals/mpe/2012/856523.pdf)
+- [经典书籍：Multiple View Geometry in Computer Vision (Second Edition)](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 
 ### 计划
 - 暑假期间主要为调研阶段。大家需要看完『资料』内的论文和视频，每个人在 github 上至少找到一个类似的开源项目（每个人找的项目不要一样），并动手实践这个项目。

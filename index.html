@@ -8,8 +8,6 @@
 
 
 <style type="text/css">
-html,
-body,
 h1,
 h2,
 h3,
@@ -17,46 +15,42 @@ h4,
 h5,
 h6,
 p,
-blockquote,
-ol,
-ul,
-li,
-img {
-  margin: 0;
-  padding: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-html * {
-  font-family: "ff-din-web-pro-1", "ff-din-web-pro-2", sans-serif;
-  font-size: 16px;
-  line-height: 19.2px;
-  color-profile: sRGB;
+blockquote {
+    margin: 0;
+    padding: 0;
 }
 body {
-  margin: 40px 70px;
+    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
+    font-size: 15px;
+    line-height: 18px;
+    color: #737373;
+    background-color: white;
+    margin: 10px 13px 10px 13px;
+}
+table {
+	margin: 10px 0 15px 0;
+	border-collapse: collapse;
+}
+td,th {	
+	border: 1px solid #ddd;
+	padding: 3px 10px;
+}
+th {
+	padding: 5px 10px;	
+}
+
+a {
+    color: #0069d6;
+}
+a:hover {
+    color: #0050a3;
+    text-decoration: none;
+}
+a img {
+    border: none;
 }
 p {
-  font-weight: lighter;
-  margin-bottom: 20px;
-}
-strong {
-  font-weight: bold;
-}
-ol,
-ul {
-  margin-left: 2em;
-  margin-bottom: 20px;
-}
-ul ul,
-ol ol,
-ul ol,
-ol ul {
-  margin-top: 10px;
-}
-li {
-  margin-bottom: 10px;
+    margin-bottom: 9px;
 }
 h1,
 h2,
@@ -64,135 +58,102 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: lighter;
-  text-transform: capitalize;
-  margin-top: 40px;
-  margin-bottom: 20px;
+    color: #404040;
+    line-height: 36px;
 }
 h1 {
-  font-size: 24.624px;
-  line-height: 29.548799999999996px;
+    margin-bottom: 18px;
+    font-size: 30px;
 }
 h2 {
-  font-size: 24.624px;
-  line-height: 29.548799999999996px;
+    font-size: 24px;
 }
 h3 {
-  font-size: 23.44px;
-  line-height: 28.128px;
+    font-size: 18px;
 }
 h4 {
-  font-size: 22.16px;
-  line-height: 26.592px;
+    font-size: 16px;
 }
 h5 {
-  font-size: 22.16px;
-  line-height: 26.592px;
+    font-size: 14px;
 }
 h6 {
-  font-size: 22.16px;
-  line-height: 26.592px;
+    font-size: 13px;
 }
-img {
-  margin-bottom: 20px;
-}
-h1 img,
-h2 img,
-h3 img,
-h4 img,
-h5 img,
-h6 img,
-p img {
-  margin-bottom: 0;
-}
-pre {
-  margin-bottom: 20px;
-}
-pre,
-code {
-  font-family: monospace;
-}
-pre {
-  white-space: pre;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-  padding: 15px;
+hr {
+    margin: 0 0 19px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
 }
 blockquote {
-  border-left: 4px solid;
-  padding: 0 15px;
+    padding: 13px 13px 21px 15px;
+    margin-bottom: 18px;
+    font-family:georgia,serif;
+    font-style: italic;
 }
-blockquote > :first-child {
-  margin-top: 0;
+blockquote:before {
+    content:"\201C";
+    font-size:40px;
+    margin-left:-10px;
+    font-family:georgia,serif;
+    color:#eee;
 }
-blockquote > :last-child {
-  margin-bottom: 15px;
+blockquote p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 18px;
+    margin-bottom: 0;
+    font-style: italic;
 }
-h1 {
-  text-transform: uppercase;
-  font-weight: bold;
-  border-bottom: 1px solid;
+code, pre {
+    font-family: Monaco, Andale Mono, Courier New, monospace;
 }
-h2 {
-  border-bottom: 1px solid;
+code {
+    background-color: #fee9cc;
+    color: rgba(0, 0, 0, 0.75);
+    padding: 1px 3px;
+    font-size: 12px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
 }
-h3,
-h4,
-h5,
-h6 {
-  border-bottom: none;
+pre {
+    display: block;
+    padding: 14px;
+    margin: 0 0 18px;
+    line-height: 16px;
+    font-size: 11px;
+    border: 1px solid #d9d9d9;
+    white-space: pre-wrap;
+    word-wrap: break-word;
 }
-html * {
-  color: #657b83;
+pre code {
+    background-color: #fff;
+    color:#737373;
+    font-size: 11px;
+    padding: 0;
 }
-html body {
-  background-color: #fdf6e3;
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
 }
-html h1,
-html h2,
-html h3,
-html h4,
-html h5,
-html h6 {
-  color: #586e75;
-  border-color: #657b83;
+* {
+	-webkit-print-color-adjust: exact;
 }
-html a,
-html a:active,
-html a:visited {
-  color: #586e75;
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:10px auto;
+    }
 }
-html a:hover {
-  background-color: #eee8d5;
-}
-html pre {
-  color: #586e75;
-  background-color: #eee8d5;
-}
-html a,
-html a:active,
-html a:visited,
-html code.url {
-  color: #b58900;
-}
-html h1 {
-  color: #b58900;
-}
-html h2,
-html h3,
-html h4,
-html h5,
-html h6 {
-  color: #b58900;
-}
-
 @media print {
-  body {
-    margin: 0;
-  }
-  * {
-    color: #000 !important;
-  }
+	body,code,pre code,h1,h2,h3,h4,h5,h6 {
+		color: black;
+	}
+	table, pre {
+		page-break-inside: avoid;
+	}
 }
 </style>
 
@@ -413,7 +374,9 @@ var _hmt = _hmt || [];
 
 <ul>
 <li>Kinect抠像相关的资料：楼珊珊的毕业论文《<a href="./lss_thesis.pdf">基于kinect的抠像算法研究与应用</a>》及论文中涉及的相关参考文献。</li>
-<li>手势识别相关资料：待添加</li>
+<li><a href="http://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/">Kinect V2 获取骨架</a></li>
+<li><a href="http://vision.ucla.edu/papers/raptisKH11.pdf">舞蹈动作识别论文——Real-Time Classification of Dance Gestures
+from Skeleton Animation</a></li>
 </ul>
 
 <h3 id="toc_6">计划</h3>
@@ -436,6 +399,8 @@ var _hmt = _hmt || [];
 <li><a href="http://www.cs.unc.edu/%7Ejheinly/reconstructing_the_world.html">Reconstruct the world in six days</a></li>
 <li><a href="http://ccwu.me/vsfm/">Visual SFM软件</a>,<a href="http://v.youku.com/v_show/id_XMTYxNTA1OTEwMA==.html">优酷视频在线地址</a>，<a href="./Structure_from_Motion_with_VisualSFM.mp4">视频下载地址</a></li>
 <li>SfM pipeline，<a href="http://v.youku.com/v_show/id_XMTYxNzM4Mzc3Mg==.html">优酷视频在线地址</a>，<a href="./Structure_From_Motion_Workflow-VisualSFM_CMPMVS_Meshlab_Blender.mp4">视频下载地址</a></li>
+<li><a href="http://downloads.hindawi.com/journals/mpe/2012/856523.pdf">基于视频的 SfM 综述</a></li>
+<li><a href="http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf">经典书籍：Multiple View Geometry in Computer Vision (Second Edition)</a></li>
 </ul>
 
 <h3 id="toc_10">计划</h3>
