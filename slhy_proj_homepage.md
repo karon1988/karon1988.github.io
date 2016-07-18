@@ -37,6 +37,7 @@ from Skeleton Animation](http://vision.ucla.edu/papers/raptisKH11.pdf)
 - SfM pipeline，[优酷视频在线地址](http://v.youku.com/v_show/id_XMTYxNzM4Mzc3Mg==.html)，[视频下载地址](./Structure_From_Motion_Workflow-VisualSFM_CMPMVS_Meshlab_Blender.mp4)
 - [基于视频的 SfM 综述](http://downloads.hindawi.com/journals/mpe/2012/856523.pdf)
 - [经典书籍：Multiple View Geometry in Computer Vision (Second Edition)](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
+- [Robust Reconstruction of Indoor Scenes ](http://redwood-data.org/indoor/pipeline.html)
 
 ### 计划
 - 暑假期间主要为调研阶段。大家需要看完『资料』内的论文和视频，每个人在 github 上至少找到一个类似的开源项目（每个人找的项目不要一样），并动手实践这个项目。
