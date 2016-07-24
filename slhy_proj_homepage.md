@@ -21,8 +21,7 @@ from Skeleton Animation](http://vision.ucla.edu/papers/raptisKH11.pdf)
 - [kinect 捕捉的动作数据库](http://cvrc.ece.utexas.edu/KinectDatasets/HOJ3D.html)
 
 ### 计划
-- 暑假期间主要为调研阶段。在此期间大家需要（1）把『资料』部分的内容看完，并以此为起点，搜索同方向下近几年的研究进展；（2）整理、编译和运行楼珊珊的留下的代码。
-
+- 暑假期间主要为调研阶段。在此期间大家需要（1）
 
 ## 大型舞台三维建模技术
 
@@ -38,6 +37,8 @@ from Skeleton Animation](http://vision.ucla.edu/papers/raptisKH11.pdf)
 - [基于视频的 SfM 综述](http://downloads.hindawi.com/journals/mpe/2012/856523.pdf)
 - [经典书籍：Multiple View Geometry in Computer Vision (Second Edition)](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 - [Robust Reconstruction of Indoor Scenes ](http://redwood-data.org/indoor/pipeline.html)
+- **Kinect Fusion([论文](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf)，[演示视频](http://v.youku.com/v_show/id_XMTY1NTExNDg5Mg==.html)，[大会报告视频](http://v.youku.com/v_show/id_XMTY1NTExMjgzMg==.html), [MSDN 开发文档](https://msdn.microsoft.com/en-us/library/dn188670.aspx))**
+
 
 ### 计划
 - 暑假期间主要为调研阶段。大家需要看完『资料』内的论文和视频，每个人在 github 上至少找到一个类似的开源项目（每个人找的项目不要一样），并动手实践这个项目。
