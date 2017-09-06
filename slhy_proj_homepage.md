@@ -8,8 +8,8 @@
 *待添加.*
 
 ### 视频资源
-- [视频1](./WeChatSight47.mp4).
-- [视频2](./WeChatSight47.mp4)
+- [tonite合成舞蹈视频](./dance_tonite.mp4).
+- [haniotikos合成舞蹈视频](./dance_haniotikos.mp4)
 
 ## 虚实角色植入与互动
 
